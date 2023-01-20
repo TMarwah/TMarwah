@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmarwah" alt="tmarwah" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kidspud_" target="blank"><img src="https://img.shields.io/twitter/follow/kidspud_?logo=twitter&style=for-the-badge" alt="kidspud_" /></a> </p>
-
 - 🌱 I’m currently learning **Computer architecture, machine code, discrete math, and C++**
 
 - 📫 How to reach me **marwah.tanmay@gmail.com**
