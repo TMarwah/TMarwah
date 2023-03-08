@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmarwah&label=Profile%20views&color=0e75b6&style=flat" alt="tmarwah" /> </p>
 <h3>🌱 I’m currently learning</h3> 
-<b>Computer architecture, machine code, discrete math, and C++</b>
+- <b>Computer architecture, machine code, discrete math, and C++</b>
 <h3>📫 How to reach me</h3> 
-<b>marwah.tanmay@gmail.com</b>
+- <b>marwah.tanmay@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
