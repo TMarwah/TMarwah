@@ -5,7 +5,7 @@
 <h3>🌱 I’m currently learning</h3> 
 - <b>Computer architecture, assembly, discrete math, and C++</b>
 <h3>📫 How to reach me</h3> 
-<p><img align="center"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="tmarwah" /><b>marwah.tanmay@gmail.com</b></p>
+<p><img align="center"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="tmarwah" /><b> marwah.tanmay@gmail.com</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
