@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student from San Diego, California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmarwah&label=Profile%20views&color=0e75b6&style=flat" alt="tmarwah" /> </p>
-<h3>🌱 I’m currently learning</h3> 
+<h3>I’m currently learning</h3> 
 <h4><b>   Computer architecture, assembly, discrete math, and C++</b></h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
