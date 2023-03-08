@@ -19,6 +19,7 @@
 
 <p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmarwah&show_icons=true&locale=en&layout=compact&theme=dracula"alt="tmarwah" /></p>
 <p><img align="center"src="https://github-readme-stats.vercel.app/api?username=tmarwah&show_icons=true&locale=en&theme=dracula" alt="tmarwah" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tmarwah&theme=dracula" alt="tmarwah" /></p>
+
 <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=tmarwah&theme=dracula" /></p>
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tmarwah&theme=dracula" alt="tmarwah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tmarwah&theme=dracula" alt="tmarwah" /></p>
