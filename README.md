@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student from San Diego, California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmarwah&label=Profile%20views&color=0e75b6&style=flat" alt="tmarwah" /> </p>
-<h3>I’m currently learning:  Computer graphics, 5G communications, and C++</h3> 
+<h3>I’m currently learning:  Graphics Programming, 5G communications, and C++</h3> 
 
 <h3 align="left">Languages and Tools:</h3>
 
