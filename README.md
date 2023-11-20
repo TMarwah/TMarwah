@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Marwah  </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmarwah&label=Profile%20views&color=0e75b6&style=flat" alt="tmarwah" /> <h3 align="center">A passionate computer science student from San Diego, California</h3>
+<p> <img src="https://komarev.com/ghpvc/?username=tmarwah&label=Profile%20views&color=0e75b6&style=flat" alt="tmarwah" /> <h3 align="center">A passionate computer science student from San Diego, California</h3>
  </p>
 
 
