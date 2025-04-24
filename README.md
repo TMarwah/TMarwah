@@ -2,7 +2,7 @@
 <h4 align="center">A passionate computer science student from San Diego, California</h4>
 <p></p>
 
-<h3>Interests:  Graphics Programming, 5G communications, and C++</h3> 
+<h3>Interests:  Graphics Programming and Embedded Systems</h3> 
 
 <h3 align="left">Languages and Tools:</h3>
 
